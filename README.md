@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Engineering+Enthusiast;AI+Driven+Systems+Explorer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Engineering+Enthusiast;AI+Driven+Systems+Explorer;Always+Learning+New+Technologies" />
 </p>
 
 ---
