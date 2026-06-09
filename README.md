@@ -1,18 +1,14 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi, I'm Brighton 👋
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Engineering+Enthusiast;AI+Driven+Systems+Explorer;Always+Learning+New+Technologies" />
-</p>
-
----
-
 ## 🧠 About Me
 
-I’m a developer focused on building scalable systems and working with data to create intelligent, real-world solutions.  
-Currently exploring data engineering concepts, AI-driven systems and modern backend architectures.
+I'm a developer focused on building scalable systems and working with data to create intelligent, real-world solutions.
+
+Currently exploring:
+- Data Engineering fundamentals
+- Machine Learning and AI-driven systems
+- Backend development and distributed architectures
+- Data analytics and visualization
+
+I enjoy transforming raw data into meaningful insights and building applications that solve practical problems.
 
 ---
 
@@ -20,7 +16,8 @@ Currently exploring data engineering concepts, AI-driven systems and modern back
 
 ### 💻 Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,13 +25,15 @@ Currently exploring data engineering concepts, AI-driven systems and modern back
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 📊 Data & Analytics
+### 📊 Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Beginner-orange?style=for-the-badge)
 
-### 🗄 Database
+### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,19 +42,12 @@ Currently exploring data engineering concepts, AI-driven systems and modern back
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Newton122&show_icons=true&theme=default" />
-</p>
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Newton122&layout=compact" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/brighton-matikiti-1a48b2365  
-📧 Email: matikitibrighton6@gmail.com
+- Data Engineering
+- Machine Learning
+- PostgreSQL
+- React & Next.js
+- Backend Development
