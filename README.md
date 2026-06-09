@@ -44,8 +44,6 @@ I enjoy transforming raw data into meaningful insights and building applications
 
 ## 🌱 Currently Learning
 
-## 🌱 Currently Learning
-
 - Data Engineering
 - Machine Learning
 - PostgreSQL
